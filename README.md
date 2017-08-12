@@ -43,7 +43,6 @@ mentors available to help.
 			<td>1.2</td>
 			<td>Javascript refresher</td>
 		</tr>
-
 		<tr>
 			<th colspan="3" align="left">Week 2</th>
 		</tr>
@@ -56,7 +55,6 @@ mentors available to help.
 			<td>2.2</td>
 			<td>Functional Programming (or, how to break down a problem)</td>
 		</tr>
-
 		<tr>
 			<th colspan="3" align="left">Week 3</th>
 		</tr>
@@ -128,4 +126,3 @@ mentors available to help.
 		</tr>
 	</tbody>
 </table>
-
