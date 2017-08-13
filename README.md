@@ -18,6 +18,7 @@ mentors available to help.
 * [react](https://facebook.github.io/react/)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [create-react-app](https://github.com/facebookincubator/create-react-app)
+* [prop-types](https://www.npmjs.com/package/prop-types)
 * [redux](http://redux.js.org/)
 * [redux-persist](https://github.com/rt2zz/redux-persist)
 * [axios](https://github.com/mzabriskie/axios)
@@ -145,4 +146,6 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 
 * [react-native](https://facebook.github.io/react-native/)
 * [electron](https://electron.atom.io/)
+* [higher-order-components](https://facebook.github.io/react/docs/higher-order-components.html)
+* [container-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
