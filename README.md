@@ -13,7 +13,7 @@ projects. Either way, when taking this course you should get exposure to what it
 have a product manager and a team to work with all while having instructors and
 mentors available to help.
 
-### tech used in this course
+### Tech used in this course
 
 * [react](https://facebook.github.io/react/)
 * [react-router](https://github.com/ReactTraining/react-router)
@@ -22,6 +22,18 @@ mentors available to help.
 * [redux-persist](https://github.com/rt2zz/redux-persist)
 * [axios](https://github.com/mzabriskie/axios)
 * [lodash](https://lodash.com/)
+* [es6 or ECMAScript 2015](https://github.com/lukehoban/es6features)
+* [webpack](https://webpack.js.org/)
+* [babel](https://babeljs.io/)
+
+### Resources
+
+If you do a google search for "learn react" there is a ton out there. How do you
+choose amongst all the options? Personally I suggest going through the free
+online [docs](https://facebook.github.io/react/docs/hello-world.html), if you want something more, just choose one of the cheap courses
+out there, I've taken the udemy one below, but that doesn't mean it is the best
+
+* [udemy](www.udemy.com/react-redux/learn/v4)
 
 ### Timeline and Course Outline
 
@@ -42,6 +54,7 @@ mentors available to help.
 		<tr>
 			<td>1.2</td>
 			<td>Javascript refresher</td>
+			<td>es6</td>
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 2</th>
@@ -99,6 +112,7 @@ mentors available to help.
 		</tr>
 		<tr>
 			<td>6.2</td>
+			<td>Testing</td>
 			<td>Breaking down create-react-app</td>
 		</tr>
 		<tr>
@@ -126,3 +140,9 @@ mentors available to help.
 		</tr>
 	</tbody>
 </table>
+
+### Where to go from here?
+
+* [react-native](https://facebook.github.io/react-native/)
+* [electron](https://electron.atom.io/)
+
