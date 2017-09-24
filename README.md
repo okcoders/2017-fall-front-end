@@ -149,3 +149,17 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 * [higher-order-components](https://facebook.github.io/react/docs/higher-order-components.html)
 * [container-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
+### Course code environment setup
+
+#### windows
+* install [git bash](https://git-for-windows.github.io/): 
+* install node (and npm, it comes with it) [download](https://nodejs.org/en/)
+#### mac
+* install [homebrew](https://brew.sh/)
+* from the command line (terminal) run: brew install node
+
+* install [chrome (so we can all have common dev tools)](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=Cj0KCQjwr53OBRCDARIsAL0vKrMFp_eezilFJAtAp-GCud0NFvAh4XCLvXcaeS-71z776Q-CYO-FPXkaAhx0EALw_wcB)
+* install create-react-app, from the terminal run: npm install -g create-react-app
+* install a code editor (if you don't already have one), [vscode](https://code.visualstudio.com/) and [sublime text](https://www.sublimetext.com/) are good options
+* get [ssh](http://inchoo.net/dev-talk/how-to-generate-ssh-keys-for-git-authorization/) configured with your [github](https://github.com/) account
+
