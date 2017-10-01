@@ -158,6 +158,7 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 * install [homebrew](https://brew.sh/)
 * from the command line (terminal) run: brew install node
 
+#### all environments
 * install [chrome (so we can all have common dev tools)](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=Cj0KCQjwr53OBRCDARIsAL0vKrMFp_eezilFJAtAp-GCud0NFvAh4XCLvXcaeS-71z776Q-CYO-FPXkaAhx0EALw_wcB)
 * install create-react-app, from the terminal run: npm install -g create-react-app
 * install a code editor (if you don't already have one), [vscode](https://code.visualstudio.com/) and [sublime text](https://www.sublimetext.com/) are good options

@@ -22,6 +22,7 @@ homogenous
 
 #### Variables
 * var test = "hello!"
+* proper variable naming
 
 #### Functions
 * function helloWorld(param1, param2) { return param1 }
