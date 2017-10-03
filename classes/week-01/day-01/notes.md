@@ -5,3 +5,4 @@
 * project based course introduction
 * go over the two projects we have for the course
 * student, teacher, mentor meet and greet 
+* student survey on what project they would prefer (office hours)
