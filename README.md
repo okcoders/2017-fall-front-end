@@ -151,6 +151,11 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 
 ### Course code environment setup
 
+#### linux
+* install (fedora, centos, redhat distrobutions)
+* from the command line (terminal) run: sudo dnf -y install git nodejs 
+* install (debian, ubuntu, mint distrobutions)
+* from the command line (terminal) run: sudo apt-get -y install git nodejs 
 #### windows
 * install [git bash](https://git-for-windows.github.io/): 
 * install node (and npm, it comes with it) [download](https://nodejs.org/en/)
