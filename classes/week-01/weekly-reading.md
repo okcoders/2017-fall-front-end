@@ -7,3 +7,8 @@
 * [imports](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 * [exports](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 * [tail calls (warning, advanced)](https://medium.com/@mlaythe/js-es6-recursive-tail-call-optimization-feaf2dada3f6)
+
+### bonus
+* [event loop stack overflow](https://stackoverflow.com/questions/21607692/understanding-the-event-loop)
+* [event loop video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+

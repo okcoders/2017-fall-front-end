@@ -102,6 +102,40 @@ class Einstein extends Loggable {
 }
 ```
 
+```
+class Animal {
+ constructor(type, color, name) {
+   this.type = type
+   this.color = color
+   this.name = name
+ }
+ 
+ speak() {
+   console.log(`I am a ${this.type} and my name is ${this.name}!`)
+ }
+}
+
+class Dog extends Animal {
+  constructor(color, name, barkLevel) {
+   super("dog", color, name)
+   this.barkLevel = barkLevel
+ }
+ 
+ loud() {
+   if (this.barkLevel > 5) {
+     return true
+   } else {
+     return false
+   }
+ }
+}
+
+var fitz = new Dog("white", "fitz", 10)
+console.log(fitz.loud())
+fitz.speak()
+
+```
+
 ### rocket (arrow) functions
 
 ### sets
