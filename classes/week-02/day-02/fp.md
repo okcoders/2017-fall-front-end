@@ -6,7 +6,8 @@
 * pure functions
 * higher order functions
 * recursive functions
-* currying
+* currying (highly related to higher order functions, and returning a function
+  from a function call)
 * when you have many small pieces you can rearange them more. i.e if I have a
   program with one giant function, I have 1 program, and if I have a program
   with 4 functions I have up to n! programs (assuming I want to call all four
