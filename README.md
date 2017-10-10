@@ -62,12 +62,12 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>2.1</td>
-			<td>Html and Css refresher</td>
-			<td>Git flow</td>
+			<td>Functional Programming (or, how to break down a problem)</td>
 		</tr>
 		<tr>
 			<td>2.2</td>
-			<td>Functional Programming (or, how to break down a problem)</td>
+			<td>Html and Css refresher</td>
+			<td>Git flow</td>
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 3</th>
