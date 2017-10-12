@@ -35,6 +35,7 @@ online [docs](https://facebook.github.io/react/docs/hello-world.html), if you wa
 out there, I've taken the udemy one below, but that doesn't mean it is the best
 
 * [udemy](www.udemy.com/react-redux/learn/v4)
+* [js and es6](https://github.com/getify/You-Dont-Know-JS)
 
 ### Timeline and Course Outline
 
