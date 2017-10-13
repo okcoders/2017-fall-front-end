@@ -7,4 +7,4 @@
 
 ### Best Practices
 
-* Branch creater cannot be merger
+* Branch creator cannot be merger
