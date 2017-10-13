@@ -1,6 +1,6 @@
 # CSS with Material Design
 
-Intended as a unified platform for consistent and flexable UI design for both touch & mouse interfaces.
+Intended as a unified platform for consistent and flexible UI design for both touch & mouse interfaces.
 
 ## Topics
 
@@ -9,20 +9,20 @@ Intended as a unified platform for consistent and flexable UI design for both to
 The name Material comes from the idea that your working with light fabrics.  The concepts in material match this "model."
 
 ### material properties
-	* Each with an X & Y position and layered in a Z position (aka elevation). 
+	* Each with an X & Y position and layered in a Z position (aka elevation).
 	* All Material elements are 1 pixel "thick".
-	* No 2 elements can occupy the same space or "bleed" into eachother.
+	* No 2 elements can occupy the same space or "bleed" into each other.
 	* Materials can change shape, join, and split
 
 ### elevation
-	* Elements cast shadows bashed on their evelation.
+	* Elements cast shadows bashed on their elevation.
 	* Generally elevation movement should be limited to user response/interaction
-	* A childs elevation is relative to the parents.
+	* A child's elevation is relative to the parents.
 	* All elements have a default or resting elevation.  Including things like dialog boxes and mouse pointers.  
 
-### animation 
+### animation
 	* Material elements can be created & destroyed at any place at any time.
-	* Material elments can move any direction & even twist and turn
+	* Material elements can move any direction & even twist and turn
 
 ### style
 	* [Material colors](http://materializecss.com/color.html#palette)
@@ -35,8 +35,8 @@ Uses a standard 12 column grid layout similar to things like bootstrap.  Classes
 	* Use .container as box level object to center set global width.
 	* Use .row to identify something holding a grid. Otherwise it will be a centered single row/column
 	* .s .m .l (small, medium, large) is used to define column with for small, medium, and large displays.
-	* additional objects include 
-		* .intro (call to action style bannor/header)
+	* additional objects include
+		* .intro (call to action style banner/header)
 		* .footer (full length bottom footer)
 		* .materialboxed (lightbox style pop-up zoom theme)
 
