@@ -31,6 +31,10 @@ The name Material comes from the idea that your working with light fabrics.  The
 
 Uses a standard 12 column grid layout similar to things like bootstrap.  Classes are used to modify everything.
 
+.container
+	.row
+		.col
+
 #### Structure
 	* Use .container as box level object to center set global width.
 	* Use .row to identify something holding a grid. Otherwise it will be a centered single row/column
