@@ -92,18 +92,18 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>4.2</td>
-			<td>Redux</td>
+			<td>React Router</td>
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 5</th>
 		</tr>
 		<tr>
 			<td>5.1</td>
-			<td>React Router</td>
+			<td>Axios</td>
 		</tr>
 		<tr>
 			<td>5.2</td>
-			<td>Axios</td>
+			<td>Redux</td>
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 6</th>
