@@ -76,11 +76,11 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		<tr>
 			<td>3.1</td>
 			<td>Why does react exists? The story of the Single Page Website</td>
-			<td>React Intro and create-react-app</td>
+			<td>React Intro</td>
 		</tr>
 		<tr>
 			<td>3.2</td>
-			<td>Jsx</td>
+			<td>React Part 2. (functional components, class components, state, events)</td>
 			<td>Lodash</td>
 		</tr>
 		<tr>
@@ -88,7 +88,7 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>4.1</td>
-			<td>React pt. 2</td>
+			<td>React pt. 3 (Component Lifecycle)</td>
 		</tr>
 		<tr>
 			<td>4.2</td>
