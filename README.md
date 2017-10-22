@@ -110,12 +110,12 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>6.1</td>
-			<td>Redux-persist</td>
+			<td>Redux pt. 2</td>
+			<td>Using Redux with React</td>
 		</tr>
 		<tr>
 			<td>6.2</td>
 			<td>Testing</td>
-			<td>Breaking down create-react-app</td>
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 7</th>
@@ -126,7 +126,7 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>7.2</td>
-			<td>Bringing it all together and overview</td>
+			<td>Next Steps</td>
 		</tr>
 		<tr>
 			<th colspan="3" align="left">Week 8</th>
@@ -138,7 +138,6 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		<tr>
 			<td>8.2</td>
 			<td>In class time to work on project</td>
-			<td>Next Steps</td>
 		</tr>
 	</tbody>
 </table>
