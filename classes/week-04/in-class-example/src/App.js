@@ -11,7 +11,7 @@ class App extends Component {
       <div>
        <Header />
        <Switch>
-         <Route exact path="/people" component={People} />
+         <Route exact path="/people/" component={People} />
          <Route exact path="/profile" component={Profile} />
          <Route render={() => <h1> no match! </h1>} />
        </Switch>
