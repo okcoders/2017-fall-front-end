@@ -99,10 +99,13 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>5.1</td>
+			<td>Styled Components</td>
+			<td>Passing State Up</td>
 			<td>Axios</td>
 		</tr>
 		<tr>
 			<td>5.2</td>
+			<td>Project First Steps</td>
 			<td>Redux</td>
 		</tr>
 		<tr>
