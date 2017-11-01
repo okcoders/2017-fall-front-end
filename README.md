@@ -106,6 +106,7 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		<tr>
 			<td>5.2</td>
 			<td>Project First Steps</td>
+			<td>Prop-types</td>
 			<td>Redux</td>
 		</tr>
 		<tr>
