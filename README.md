@@ -106,7 +106,6 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		<tr>
 			<td>5.2</td>
 			<td>Project First Steps</td>
-			<td>Prop-types</td>
 			<td>Redux</td>
 		</tr>
 		<tr>
@@ -114,11 +113,13 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>6.1</td>
-			<td>Redux pt. 2</td>
-			<td>Using Redux with React</td>
+			<td>Review through example</td>
 		</tr>
 		<tr>
 			<td>6.2</td>
+			<td>Project Architecture</td>
+			<td>Prop-types</td>
+			<td>Configuration</td>
 			<td>Testing</td>
 		</tr>
 		<tr>
@@ -126,7 +127,7 @@ out there, I've taken the udemy one below, but that doesn't mean it is the best
 		</tr>
 		<tr>
 			<td>7.1</td>
-			<td>Configuration and deployment</td>
+			<td>Deployment</td>
 		</tr>
 		<tr>
 			<td>7.2</td>
