@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom'
 class Xaps extends Component {
   constructor(props) {
     super(props)
-    console.log("xaps props", props)
     this.state = {}
   }
 
@@ -14,10 +13,10 @@ class Xaps extends Component {
     axios
       .get(this.props.xapUrl)
       .then(this.handleSuccess)
+      .catch((e) => e)
   }
 
   handleSuccess = (resp) => {
-    console.log(resp)
     this.setState({ data: resp.data })
   }
 
@@ -42,7 +41,6 @@ class Xaps extends Component {
   makeRows(data) {
     return data.map(i => {
       const parsed = JSON.parse(i.class)
-      console.log(parsed)
       return (<tr>
         <td><Link to={`/component/${parsed.uuid}`}>component!</Link></td>
         <td>{parsed.version}</td>
