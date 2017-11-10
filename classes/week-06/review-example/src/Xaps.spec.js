@@ -1,20 +1,5 @@
 import React, { Component } from 'react'
 import { shallow, mount } from 'enzyme'
-// import Xaps from './Xaps'
-
-// const mockState = {
-//   user: "Zach",
-//   xapUrl: "https://exaptive.city/api/v1/xaps/efa507b0-76f3-11e7-a0fe-d7ef23f2c0f6/spec.json",
-//   componentBase: "https://exaptive.city/api/v1/components/"
-// }
-
-// describe("<Xaps>", () => {
-//   it("should say hello", () => {
-//     const wrapper = mount(<Xaps {...mockState} />)
-//   })
-// })
-
-
 
 class TestComponent extends Component {
   constructor(props) {

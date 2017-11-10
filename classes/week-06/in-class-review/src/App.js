@@ -24,7 +24,9 @@ class App extends Component {
         <Route path="/xaps" render={(props) => (
           <Xaps {...this.state} {...props}/>
         )} />
-        <Route path="/mycomponent" component={MyComponent} />
+        <Route path="/mycomponent/:id" render={(props) => (
+          <MyComponent {...this.state} {...props}/>
+        )} />
       </Switch>
       </div>
     );

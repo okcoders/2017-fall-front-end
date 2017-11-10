@@ -41,8 +41,7 @@ class Xaps extends Component {
   renderRows(data) {
     return data.map(d => {
       const parsed = JSON.parse(d.class)
-      const to = `${this.props.componentBase}${parsed.uuid}`
-      console.log(to)
+      const to = `/mycomponent/${parsed.uuid}`
       return (
         <tr>
           <td><Link to={to}>{parsed.uuid}</Link></td>
